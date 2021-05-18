@@ -58,3 +58,4 @@ This section should list any major frameworks that you built your project using.
 ## Contact
 
 Ainazik - [@Ainazik06724234](https://twitter.com/Ainazik06724234) - ainazik.momunalieva@iaau.edu.kg
+Tilek - tilek.kenzhaev@iaau.edu.kg

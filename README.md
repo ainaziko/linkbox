@@ -15,7 +15,7 @@
     </li>
     <li><a href="#swagger-documentation">Swagger Documentation</a></li>
     <li><a href="#screenshots">Screenshots</a></li>
-    <li><a href="figma">Figma</a></li>
+    <li><a href="#figma">Figma</a></li>
     <li><a href="#trello">Trello</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>

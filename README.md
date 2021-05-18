@@ -28,8 +28,9 @@ Learn by provided materials and share links to web sites, articles, courses, lec
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* PostgreSQL
 * Spring
+* Spring MVC
+* PostgreSQL
 * REST API
 * Swagger
 * Bootstrap

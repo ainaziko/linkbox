@@ -15,6 +15,7 @@
     </li>
     <li><a href="#swagger-documentation">Swagger Documentation</a></li>
     <li><a href="#screenshots">Screenshots</a></li>
+    <li><a href="figma">Figma</a></li>
     <li><a href="#trello">Trello</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -51,6 +52,9 @@ This section should list any major frameworks that you built your project using.
   <img src="https://sun9-10.userapi.com/impg/XRSaR9mLUiqTb5bqu9vrWwyG6f6qurJ11aQdiQ/yvHYzm7g1lk.jpg?size=2560x1551&quality=96&sign=c822bd17baa8ff13b20c1444138eacaf&type=album" width="500" height="300">
   <img src="https://sun9-34.userapi.com/impg/cbYGgzVTcph6lFVzR_7W-S9E3GiD-puRqIPEfw/JkzLyJRxp8Y.jpg?size=2560x1548&quality=96&sign=3c473984a8aa2de62dde9cce0db11617&type=album" width="500" height="300">
 </div>
+
+### Figma
+* [Figma link](https://www.figma.com/file/WNICpn7MDXoGkfiSerXxqJ/Untitled?node-id=1%3A2)
 
 ### Trello
 * [Trello link](https://trello.com/b/CSBmzq0n/java-backend-final-project)

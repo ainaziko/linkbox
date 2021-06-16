@@ -62,4 +62,3 @@ Learn by provided materials and share links to web sites, articles, courses, lec
 ## Contact
 
 Ainazik - [@Ainazik06724234](https://twitter.com/Ainazik06724234) - ainazik.momunalieva@iaau.edu.kg
-Tilek - tilek.kenzhaev@iaau.edu.kg
